@@ -16405,3 +16405,7 @@ pre.highlight {
     right: 20px;
     left: auto;
 }
+
+p a {
+    color: #05c896;
+}
