@@ -16410,3 +16410,11 @@ pre.highlight {
 p a {
     color: #05c896;
 }
+
+a.uk-navbar-item.uk-logo img {
+    width: 180px;
+}
+
+.uk-navbar-right a.uk-navbar-item.uk-logo img {
+    width: 120px;
+}
