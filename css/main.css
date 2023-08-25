@@ -16422,3 +16422,7 @@ a.uk-navbar-item.uk-logo img {
 ul li.sub-menu-with-icon ul {
     border-left: 2px solid #8f919e;
 }
+
+nav.uk-navbar-container.uk-navbar-transparent {
+    border: solid 1px #f5f5f5;
+}
