@@ -16418,3 +16418,7 @@ a.uk-navbar-item.uk-logo img {
 .uk-navbar-right a.uk-navbar-item.uk-logo img {
     width: 120px;
 }
+
+ul li.sub-menu-with-icon ul {
+    border-left: 2px solid #8f919e;
+}
